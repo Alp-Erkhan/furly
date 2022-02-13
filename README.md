@@ -1,2 +1,2 @@
 Image test
-![IMG!](preview.png)
+![IMG!](pre.png)
